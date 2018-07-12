@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/chapter7.unity
     guid: 5c75156784d930e4cb6ee8b85d8c9c1c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/chapter8.unity
     guid: cfe90c5bc44eeec468e315bb3adbba7a
+  - enabled: 1
+    path: Assets/Scenes/chapter10.unity
+    guid: bb3d889ab0df39b48af08ac6b7692554
   m_configObjects: {}
